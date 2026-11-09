@@ -1,7 +1,7 @@
 
 /* Global variables */
 var who = "wooden shoe"
-var joke = "wooden show like to know?";
+var joke = "wooden shoe like to know?";
 var expected = who + " who?";
 
 function sayHello(){
